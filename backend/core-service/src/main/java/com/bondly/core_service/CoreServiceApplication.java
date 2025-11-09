@@ -1,13 +1,13 @@
-package com.bondly.user_service;
+package com.bondly.core_service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class UserServiceMicroserviceApplication {
+public class CoreServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(UserServiceMicroserviceApplication.class, args);
+		SpringApplication.run(CoreServiceApplication.class, args);
 	}
 
 }

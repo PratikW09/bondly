@@ -1,10 +1,10 @@
-package com.bondly.user_service;
+package com.bondly.core_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UserServiceMicroserviceApplicationTests {
+class CoreServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
